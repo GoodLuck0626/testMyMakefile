@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC   -shared -Wl,-soname,libmyFunc.so -o ../../lib/libmyFunc.so CMakeFiles/myFunc.dir/myFunc.c.o 

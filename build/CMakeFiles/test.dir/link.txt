@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test.dir/src/main.c.o  -o test -Wl,-rpath,/home/daobaozhu/桌面/testMyMakefile/lib ../lib/libmyFunc.so 

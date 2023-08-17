@@ -1,0 +1,3 @@
+/home/daobaozhu/桌面/testMyMakefile/build/CMakeFiles/rebuild_cache.dir
+/home/daobaozhu/桌面/testMyMakefile/build/CMakeFiles/test.dir
+/home/daobaozhu/桌面/testMyMakefile/build/CMakeFiles/edit_cache.dir

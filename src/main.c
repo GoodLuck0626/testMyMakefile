@@ -1,6 +1,5 @@
 #include<stdio.h>
-#include"../include/add.h"
-#include"../include/minus.h"
+#include"../include/myFunc.h"
 void add(int* add1,int* add2){
             printf("请输入第一个加数：\n");      
             scanf("%d",add1);      

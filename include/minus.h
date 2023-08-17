@@ -1,0 +1,1 @@
+int minusFunc(int,int);
